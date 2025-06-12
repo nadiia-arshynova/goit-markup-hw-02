@@ -62,6 +62,7 @@ color: #434455;
 .hero-baner-title {
     font-weight: 700;
 font-size: 56px;
+text-align: center;
 line-height: 1.07;
 letter-spacing: 0.02em;
 color: #fff;
@@ -105,8 +106,10 @@ color: #434455;
 .team-title {
     font-weight: 700;
 font-size: 36px;
-line-height: 1.1;
+line-height: 1.11;
+text-align: center;
 letter-spacing: 0.02em;
+text-transform: capitalize;
 color: #2e2f42;
 }
 
@@ -130,7 +133,9 @@ color: #434455;
     font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
+text-align: center;
 letter-spacing: 0.02em;
+text-transform: capitalize;
 color: #2e2f42;
 }
 
