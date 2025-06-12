@@ -74,6 +74,7 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
     background-color: #4d5ae5;
+cursor: pointer;
 }
 
 .hero-button:hover,
@@ -90,7 +91,7 @@ color: #2e2f42;
 }
 
 .advantages-text {
-    font-weight: 400;
+        font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -118,7 +119,7 @@ color: #2e2f42;
 }
 
 .team-text {
-    font-weight: 400;
+        font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
